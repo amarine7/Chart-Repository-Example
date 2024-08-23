@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  custom-app-demo:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-08-23T12:41:59.3691088+02:00"
+    description: A generic Helm chart for orchestration-demo
+    digest: 079275cb1d03e7c0d00ef0d487f35ebb7563432da5420c35f6896375181e7b4e
+    name: custom-app-demo
+    type: application
+    urls:
+    - custom-app-demo-0.1.0.tgz
+    version: 0.1.0
+generated: "2024-08-23T12:41:59.3662186+02:00"
